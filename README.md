@@ -1,2 +1,1 @@
-# BouncingBall
-Matlab/Octave simulation of a 1D bouncing ball
+This is a very basic matlab/octave script simulating the kinematics of a bouncing ball, in one dimension. The output of the program are plot describing the position and the velocity of the ball as a function of time, until it stops.
